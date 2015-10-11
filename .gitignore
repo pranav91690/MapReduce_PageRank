@@ -1,0 +1,9 @@
+IDS-PageRank.iml
+IDS-PageRank.ipr
+IDS-PageRank.iw
+.gradle
+.idea
+gradle/
+gradlew
+gradlew.bat
+IDS-PageRank.iws
